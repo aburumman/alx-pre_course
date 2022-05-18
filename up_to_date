@@ -1,0 +1,24 @@
+    1  git status
+    2  ls
+    3  cd alx-pre_course/
+    4  git status
+    5  git pull
+    6  git add *
+    7  git commit -m "Work"
+    8  git pull
+    9  git push
+   10  git branch
+   11  git pull
+   12  cp README.md ../
+   13  git rm --cached README.md 
+   14  git pull
+   15  git commit -m "work"
+   16  git pull
+   17  git push
+   18  ls
+   19  touch up_to_date
+   20  git add .
+   21  git commit -m "added up to date"
+   22  git push
+   23  ls
+   24  history >> up_to_date 
